@@ -4,7 +4,7 @@ import { FaRegEye, FaShareAlt } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const NewsCard = ({ news }) => {
-  console.log(news);
+  // console.log(news);
   return (
     <div className=" p-4 bg-white rounded-lg shadow-md">
       {/* Author Information */}
